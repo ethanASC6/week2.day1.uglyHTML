@@ -1,4 +1,4 @@
-div{
+body{
     background-color: rgb(53,53,53);
     color: whitesmoke;
 }
@@ -14,8 +14,50 @@ h3{
     font-size: 26px;
 }
 
+h2{
+    font-family: 'Unica One', cursive;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 26px;
+}
+
 .top{
     text-align: center;
     width: center;
-    /*width: add image width*/
+}
+
+img{
+    width: 540px;
+    max-height: 200px;
+    margin-left: 10px; 
+    margin-right: 10px;
+}
+
+.watch_container{
+    background-color: #1a1818;
+    border: 2px solid #fdefa6;
+    border-radius: 13px;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 16px;
+    font-family: 'Dosis', sans-serif;
+}
+
+.text{
+    clear: right;
+}
+
+.watch_description{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+}
+
+footer{
+    text-align: center;
+    width: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    font-family: 'Dosis', sans-serif;
 }
