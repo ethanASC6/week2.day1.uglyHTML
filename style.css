@@ -1,0 +1,21 @@
+div{
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+
+header{
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+}
+
+.top{
+    text-align: center;
+    width: center;
+    /*width: add image width*/
+}
